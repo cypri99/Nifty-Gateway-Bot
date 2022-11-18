@@ -1,0 +1,10 @@
+fake_useragent
+pandas
+names
+requests
+pyarmor
+phonenumbers
+random_user_agent
+colorama
+python_anticaptcha
+capmonster_python

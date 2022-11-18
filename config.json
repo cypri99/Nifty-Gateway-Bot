@@ -1,0 +1,16 @@
+{
+    "country_code":"FR",
+    "catchall":"@domain.com",
+    "first_name":"TEST",
+    "last_name": "Martini",
+    "password": "Test123!1212",
+    "gender": "m",
+    "webhook": "WEBHOOK",
+    "API_KEY": "SMS KEY",
+    "SMS_COUNTRY": "6",
+    "SMS_PROVIDER": "smsactivate or 5sim or smspva",
+    "DELAY": "0",
+    "KEY": "KEY",
+    "CAPTCHA_PROVIDER": "2captcha or anticaptcha or capmonster",
+    "CAPTCHA_KEY": "KEY"
+}
